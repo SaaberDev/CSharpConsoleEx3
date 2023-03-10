@@ -1,4 +1,4 @@
-﻿## Array and List console application - (Exercise - 2).
+﻿## Array and List console application - (Exercise - 3).
 
 **This is a simple conditional console application.**
 
